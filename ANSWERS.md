@@ -8,7 +8,7 @@ Constructor: Sets the component up with the initial state data needed during the
 
 Render: Returns rendered components to the screen.
 
-ComponentDidMound: Performs all asynchronous actions... such as the componentDidMount function.
+ComponentDidMount: Performs all asynchronous actions... such as the componentDidMount function.
 
 - [ ] What is the purpose of a custom hook?
 
