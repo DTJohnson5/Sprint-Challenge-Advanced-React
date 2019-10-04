@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.pContainer {
+  flex-wrap: wrap;
+  padding: 30px;
+  justify-content: center;
+}
+
+p {
+  text-align: center;
+  font-size: 50px;
+}
+
+.pCard {
+  border: 1px solid black;
+  width: 500px;
+  margin: 16px;
+  color: darkkhaki;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.pCard h3 {
+  text-align: center;
+  color: white;
+  font-family: 'Sigmar One', cursive;
+}
+
+.pCard h4 {
+  text-align: center;
+  color: lightblue;
+  font-family: 'Oleo Script', cursive;
+}
+
+form input{
+  margin: 5px;
+  padding: 3px;
+}
+
+button {
+  margin: 5px;
+  padding: 2px;
+}
